@@ -67,7 +67,7 @@ preds = model_correction.predict([masked_map, ori_mask])[0]
 ## Acknowledgement & Citation
 
 
-If you find this repository useful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/abstract/document/10159482):
+If you find this repository useful for your research, please consider citing our [paper](https://doi.org/10.1016/j.media.2024.103110):
 
 ```bibtex
 @article{shi2024rnflt2vec,
