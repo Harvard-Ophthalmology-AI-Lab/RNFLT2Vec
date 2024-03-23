@@ -35,7 +35,7 @@ plt.imshow(ori_mask)
 <img src="imgs/ori_mask.png" width="200">
 
 ## Pretrained Model
-The model weight "combined_rnflt2vec_weights_512_128_10_0001_004.93-0.03" trained using 10,000 samples from our larger private dataset can be downloaded via this [link](https://ophai.hms.harvard.edu/datasets/harvard-gd500/)
+The model weight "combined_rnflt2vec_weights_512_128_10_0001_004.93-0.03" trained using 10,000 samples from our larger private dataset can be downloaded via this [link](https://drive.google.com/file/d/1LsOz5bp8bVKJR7npRNE5RQ3sCI4yg4Cz/view?usp=sharing)
 
 
 ## Use the Model
