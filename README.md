@@ -2,8 +2,7 @@
 
 The dataset and code for the paper entitled [**RNFLT2Vec: Artifact-Corrected Representation Learning for Retinal Nerve Fiber Layer Thickness Maps**](https://doi.org/10.1016/j.media.2024.103110) published in the Medical Image Analysis.
 
-<img src="imgs/Fig1.png" width="700">
-<embed src="file_name.pdf" width="700"/>
+<img src="imgs/Fig1.jpg" width="700">
 
 ## Requirements
 Python 3.8 <br/>
