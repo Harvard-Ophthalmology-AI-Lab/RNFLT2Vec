@@ -62,7 +62,7 @@ pred = model_correction.predict([masked_map, ori_mask])[0]
 plot_2dmap(pred, show_cup=True)
 ````
 
-#### Artifact correction examples: <br />
+#### Artifact correction example: <br />
 <img src="imgs/example.png" width="300">
 
 ## Acknowledgement & Citation
