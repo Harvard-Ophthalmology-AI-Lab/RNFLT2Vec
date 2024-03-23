@@ -58,7 +58,8 @@ model_correction = Model(inputs=RNFLT2Vec_inpaint_model.inputs, outputs=RNFLT2Ve
 # embedding inference
 embeds = model_embed.predict([masked_map, ori_mask])[0] 
 # artifact correction
-preds = model_correction.predict([masked_map, ori_mask])[0]
+pred = model_correction.predict([masked_map, ori_mask])[0]
+plot_2dmap(pred, show_cup=True)
 ````
 
 #### Artifact correction examples: <br />
