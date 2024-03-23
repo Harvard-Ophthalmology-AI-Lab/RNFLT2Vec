@@ -62,7 +62,7 @@ preds = model_correction.predict([masked_map, ori_mask])[0]
 ````
 
 #### Artifact correction examples: <br />
-<img src="imgs/example.png" width="200">
+<img src="imgs/example.png" width="300">
 
 ## Acknowledgement & Citation
 
@@ -70,11 +70,12 @@ preds = model_correction.predict([masked_map, ori_mask])[0]
 If you find this repository useful for your research, please consider citing our [paper](https://ieeexplore.ieee.org/abstract/document/10159482):
 
 ```bibtex
-@article{shi2023artifact,
-  title={Artifact-Tolerant Clustering-Guided Contrastive Embedding Learning for Ophthalmic Images in Glaucoma},
-  author={Shi, Min and Lokhande, Anagha and Fazli, Mojtaba S and Sharma, Vishal and Tian, Yu and Luo, Yan and Pasquale, Louis R and Elze, Tobias and Boland, Michael V and Zebardast, Nazlee and others},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2023},
-  publisher={IEEE}
+@article{shi2024rnflt2vec,
+  title={RNFLT2Vec: Artifact-corrected representation learning for retinal nerve fiber layer thickness maps},
+  author={Shi, Min and Tian, Yu and Luo, Yan and Elze, Tobias and Wang, Mengyu},
+  journal={Medical Image Analysis},
+  pages={103110},
+  year={2024},
+  publisher={Elsevier}
 }
 
