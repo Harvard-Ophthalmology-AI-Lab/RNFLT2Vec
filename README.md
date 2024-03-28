@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 
 rnflts = np.load('dataset/samples.npy')
 img = rnflts[0]
-plot_2dmap(img, show_cup=True)
+plot_2dmap(img)
 ````
 <img src="imgs/Fig2.png" width="250">
 
