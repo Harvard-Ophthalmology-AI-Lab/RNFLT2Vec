@@ -65,10 +65,10 @@ plot_2dmap(pred, show_cup=True)
 #### Artifact correction example: <br />
 <img src="imgs/example.png" width="300">
 
-## Acknowledgement & Citation
+## Acknowledgement and Citation
 
 
-If you find this repository useful for your research, please consider citing our [paper](https://doi.org/10.1016/j.media.2024.103110):
+If you find this repository useful for your research, please consider citing our [paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841524000355):
 
 ```bibtex
 @article{shi2024rnflt2vec,
