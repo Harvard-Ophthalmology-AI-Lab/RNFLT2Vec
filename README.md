@@ -1,6 +1,6 @@
 # RNFLT2Vec
 
-The code for the paper entitled [**RNFLT2Vec: Artifact-Corrected Representation Learning for Retinal Nerve Fiber Layer Thickness Maps**](https://doi.org/10.1016/j.media.2024.103110) published in the Medical Image Analysis. If you have any questions, please email <harvardophai@gmail.com>.
+The code for the paper entitled [**RNFLT2Vec: Artifact-Corrected Representation Learning for Retinal Nerve Fiber Layer Thickness Maps**](https://doi.org/10.1016/j.media.2024.103110) published in the Medical Image Analysis. If you have any questions, please email <harvardophai@gmail.com> and <harvardairobotics@gmail.com>.
 
 <img src="imgs/Fig1.jpg" width="700">
 
